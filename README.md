@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Code](https://github.com/Phoenix-dare/Sunny_side_landing_page)
+- Live Site URL: [Live](https://phoenix-dare.github.io/Sunny_side_landing_page/)
 
 ## My process
 
